@@ -1,0 +1,64 @@
+{
+  "alfredtheme": {
+    "result": {
+      "textSpacing": 5,
+      "subtext": {
+        "size": 12,
+        "colorSelected": "#f2e9e1FF",
+        "font": "System",
+        "color": "#9893a5FF"
+      },
+      "shortcut": {
+        "size": 16,
+        "colorSelected": "#575279FF",
+        "font": "System",
+        "color": "#ea9d34FF"
+      },
+      "backgroundSelected": "#b4637aFF",
+      "text": {
+        "size": 18,
+        "colorSelected": "#faf4edFF",
+        "font": "System",
+        "color": "#575279FF"
+      },
+      "iconPaddingHorizontal": 7,
+      "roundness": 8,
+      "paddingVertical": 3,
+      "iconSize": 40
+    },
+    "search": {
+      "backgroundSelected": "#f2e9e1FF",
+      "paddingHorizontal": 7,
+      "spacing": 9,
+      "text": {
+        "size": 36,
+        "colorSelected": "#575279FF",
+        "font": "System Light",
+        "color": "#575279FF"
+      },
+      "background": "#f2e9e1FF",
+      "roundness": 8,
+      "paddingVertical": 5
+    },
+    "window": {
+      "color": "#faf4edFF",
+      "paddingHorizontal": 9,
+      "width": 700,
+      "borderPadding": 0,
+      "borderColor": "#dfdad9FF",
+      "blur": 0,
+      "roundness": 15,
+      "paddingVertical": 9
+    },
+    "visualEffectMode": 2,
+    "separator": {
+      "color": "#cecacdFF",
+      "thickness": 0
+    },
+    "scrollbar": {
+      "color": "#cecacdFF",
+      "thickness": 2
+    },
+    "name": "Rosé Pine Dawn"
+  }
+}
