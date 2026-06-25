@@ -1,0 +1,64 @@
+{
+  "alfredtheme": {
+    "result": {
+      "textSpacing": 5,
+      "subtext": {
+        "size": 12,
+        "colorSelected": "#e0def4FF",
+        "font": "System",
+        "color": "#6e6a86FF"
+      },
+      "shortcut": {
+        "size": 16,
+        "colorSelected": "#e0def4FF",
+        "font": "System",
+        "color": "#f6c177FF"
+      },
+      "backgroundSelected": "#eb6f92FF",
+      "text": {
+        "size": 18,
+        "colorSelected": "#e0def4FF",
+        "font": "System",
+        "color": "#e0def4FF"
+      },
+      "iconPaddingHorizontal": 7,
+      "roundness": 8,
+      "paddingVertical": 3,
+      "iconSize": 40
+    },
+    "search": {
+      "backgroundSelected": "#26233aFF",
+      "paddingHorizontal": 7,
+      "spacing": 9,
+      "text": {
+        "size": 36,
+        "colorSelected": "#e0def4FF",
+        "font": "System Light",
+        "color": "#e0def4FF"
+      },
+      "background": "#191724FF",
+      "roundness": 8,
+      "paddingVertical": 5
+    },
+    "window": {
+      "color": "#1f1d2eFF",
+      "paddingHorizontal": 9,
+      "width": 700,
+      "borderPadding": 0,
+      "borderColor": "#403d52FF",
+      "blur": 0,
+      "roundness": 15,
+      "paddingVertical": 9
+    },
+    "visualEffectMode": 2,
+    "separator": {
+      "color": "#524f67FF",
+      "thickness": 0
+    },
+    "scrollbar": {
+      "color": "#524f67FF",
+      "thickness": 2
+    },
+    "name": "Rosé Pine"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "alfredtheme": {
+    "result": {
+      "textSpacing": 5,
+      "subtext": {
+        "size": 12,
+        "colorSelected": "$($text|$text|$overlay)FF",
+        "font": "System",
+        "color": "$mutedFF"
+      },
+      "shortcut": {
+        "size": 16,
+        "colorSelected": "$textFF",
+        "font": "System",
+        "color": "$goldFF"
+      },
+      "backgroundSelected": "$loveFF",
+      "text": {
+        "size": 18,
+        "colorSelected": "$($text|$text|$base)FF",
+        "font": "System",
+        "color": "$textFF"
+      },
+      "iconPaddingHorizontal": 7,
+      "roundness": 8,
+      "paddingVertical": 3,
+      "iconSize": 40
+    },
+    "search": {
+      "backgroundSelected": "$overlayFF",
+      "paddingHorizontal": 7,
+      "spacing": 9,
+      "text": {
+        "size": 36,
+        "colorSelected": "$textFF",
+        "font": "System Light",
+        "color": "$textFF"
+      },
+      "background": "$($base|$base|$overlay)FF",
+      "roundness": 8,
+      "paddingVertical": 5
+    },
+    "window": {
+      "color": "$($surface|$surface|$base)FF",
+      "paddingHorizontal": 9,
+      "width": 700,
+      "borderPadding": 0,
+      "borderColor": "$highlightMedFF",
+      "blur": 0,
+      "roundness": 15,
+      "paddingVertical": 9
+    },
+    "visualEffectMode": 2,
+    "separator": {
+      "color": "$highlightHighFF",
+      "thickness": 0
+    },
+    "scrollbar": {
+      "color": "$highlightHighFF",
+      "thickness": 2
+    },
+    "name": "$name"
+  }
+}
